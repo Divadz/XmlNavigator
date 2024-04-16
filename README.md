@@ -1,5 +1,11 @@
 # XmlNavigator
 
+XmlNavigator : an IntelliJ plugin for XML language.
+Via Preferences window, you can define wich tags or attributes to manage.
+
+
+# IntelliJ Plugin Template README
+
 ![Build](https://github.com/Divadz/XmlNavigator/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
