@@ -1,0 +1,13 @@
+{
+  "gradleJvm": "#USE_PROJECT_JDK",
+  "libraries": [
+    {
+      "ideaName": "Gradle: org.jetbrains:annotations:24.0.1",
+      "gradleName": "org.jetbrains:annotations:24.0.1",
+      "unresolved": false,
+      "groupId": "org.jetbrains",
+      "artifactId": "annotations",
+      "version": "24.0.1"
+    }
+  ]
+}

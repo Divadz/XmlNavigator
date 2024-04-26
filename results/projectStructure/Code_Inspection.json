@@ -1,0 +1,115 @@
+{
+  "modules": [
+    {
+      "name": "XmlNavigator",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$",
+          "excludePatterns": [],
+          "excludeFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/.gradle",
+              "type": "Exclude",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/build",
+              "type": "Exclude",
+              "packagePrefix": ""
+            }
+          ],
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "17",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "XmlNavigator.main",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/src/main",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/src/main/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/src/main/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "17",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:24.0.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.jetbrains:ideaIC:2022.3.3",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "XmlNavigator.test",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/src/test",
+          "excludePatterns": [],
+          "excludeFolders": [],
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/src/test/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "17",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "XmlNavigator.main",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:24.0.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.jetbrains:ideaIC:2022.3.3",
+          "type": "Library"
+        }
+      ]
+    }
+  ]
+}
