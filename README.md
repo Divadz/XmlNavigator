@@ -5,7 +5,7 @@
 
 <!-- Plugin description -->
 XmlNavigator : an IntelliJ plugin for XML language.
-Via Preferences window, you can define wich tags or attributes to manage.
+Via Preferences window, you can define which tags or attributes to manage.
 <!-- Plugin description end -->
 
 ## Installation
