@@ -8,12 +8,12 @@
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/Divadz/XmlNavigator.git",
-        "revisionId": "530172a0d5d981bf0b19d73d3c0f69ec39d6790d",
-        "branch": "dependabot/github_actions/peaceiris/actions-gh-pages-4"
+        "revisionId": "176e7ea180868abf871141e6897de8ff19c701e5",
+        "branch": "dependabot/github_actions/github/codeql-action-3"
       }
     },
     "repoUrl": "https://github.com/Divadz/XmlNavigator.git",
     "deviceId": "200820300000000-e270-5598-c993-ff3ad34d65f6",
-    "jobUrl": "https://github.com/Divadz/XmlNavigator/actions/runs/8875607211"
+    "jobUrl": "https://github.com/Divadz/XmlNavigator/actions/runs/8875608138"
   }
 }
