@@ -7,13 +7,13 @@
   "attributes": {
     "vcs": {
       "sarifIdea": {
-        "repositoryUri": "https://github.com/Divadz/XmlNavigator.git",
-        "revisionId": "176e7ea180868abf871141e6897de8ff19c701e5",
-        "branch": "dependabot/github_actions/github/codeql-action-3"
+        "repositoryUri": "https://github.com/Divadz/AxelorPlugin.git",
+        "revisionId": "6755180def0efc49c0672ebce3a2cc5745cf7703",
+        "branch": "dependabot/github_actions/JetBrains/qodana-action-2024.1.3"
       }
     },
-    "repoUrl": "https://github.com/Divadz/XmlNavigator.git",
-    "deviceId": "200820300000000-e270-5598-c993-ff3ad34d65f6",
-    "jobUrl": "https://github.com/Divadz/XmlNavigator/actions/runs/8875608138"
+    "repoUrl": "https://github.com/Divadz/AxelorPlugin.git",
+    "deviceId": "200820300000000-b474-9cdc-5ed4-e164f728c1e4",
+    "jobUrl": "https://github.com/Divadz/AxelorPlugin/actions/runs/8936298643"
   }
 }
