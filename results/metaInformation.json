@@ -8,12 +8,12 @@
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/Divadz/AxelorPlugin.git",
-        "revisionId": "87091a9abaacfb14c11f3268205c7be2d10894bc",
-        "branch": "dependabot/gradle/org.jetbrains.kotlin.jvm-2.0.0"
+        "revisionId": "b407c609e378cfe4d58a33e8d6ef6f731bb7ee9c",
+        "branch": "dependabot/gradle/org.jetbrains.intellij-1.17.4"
       }
     },
     "repoUrl": "https://github.com/Divadz/AxelorPlugin.git",
     "deviceId": "200820300000000-b474-9cdc-5ed4-e164f728c1e4",
-    "jobUrl": "https://github.com/Divadz/AxelorPlugin/actions/runs/9171852345"
+    "jobUrl": "https://github.com/Divadz/AxelorPlugin/actions/runs/9544931446"
   }
 }
